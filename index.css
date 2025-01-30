@@ -1,0 +1,78 @@
+body{
+margin: 0;
+}
+
+.geral{
+	margin: 0 auto;
+	border: 1px solid black;
+	max-width: 800px;
+
+
+}
+.parte1, .parte2, .parte3 {
+	margin: 10px;
+}
+
+.foto1{
+	width: 200px;
+	height: 60px;
+}
+
+.classe1{
+	display: flex;
+	align-items: center;
+	width: auto;
+	height: 50px;
+	background-color: gray;
+}
+
+a{
+color: blue;
+}
+
+.foto2{
+display: block;	
+width: 400px;
+height: 300px;
+background-color: lightgray;
+}
+
+.foto2 img{
+	margin: 10px 10px 0 10px;
+	width: 380px;
+	height: 250px;
+}
+
+.festa{
+	margin: 10px 180px 50px 180px;
+}
+
+.organizar1{
+	display: inline-block;
+	float: left;
+}
+
+.organizar2{
+	float: right;
+}
+
+.moldura{
+	background-color: lightgray;
+}
+
+.foto3{
+	margin:10px 10px 0 10px;
+	width: 200px;
+	height: 130px;
+}
+
+
+.butao{
+	font-weight: 800;
+	font-size: 20px;
+	margin: 10px 50px;
+	width: 680px;
+	height: 50px;
+	color: blueviolet;
+	background-color: lightblue;
+}
